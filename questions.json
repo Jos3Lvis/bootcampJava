@@ -1,7 +1,7 @@
 {
-    "category": "Géneros",
-    "question": "¿Cuál es el género cinematográfico de la película Jurassic Park?",
-    "options": ["Acción", "Aventura", "Ciencia ficción"],
-    "answer": 2,
-    "explanation": "Jurassic Park es una película de ciencia ficción que combina elementos de aventura y acción."
-  }
+    "category": "Cine",
+    "question": "¿Cuál de estas películas ganó el premio Oscar a la Mejor Película en el año 1994?",
+    "options": ["Pulp Fiction", "Forrest Gump", "El Rey León"],
+    "answer": 1,
+    "explanation": "Forrest Gump, dirigida por Robert Zemeckis y protagonizada por Tom Hanks, ganó el premio Oscar a la Mejor Película en el año 1994."
+}
